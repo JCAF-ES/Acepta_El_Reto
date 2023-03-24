@@ -4,5 +4,5 @@ Este repositorio consta una colección de soluciones en *Java* a problemas de pr
 ## Tabla de problemas resueltos
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
-| 107 | [La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [AceptaElReto107LaFiestaAburrida.java](https://github.com/xxx.java "AceptaElReto107LaFiestaAburrida.java")| | |
-| 116 | [¡Hola mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | [AceptaElReto101HolaMundo.java](https://github.com/xxxx.java "AceptaElReto116HolaMundo.java")| | |
+| 107 | [La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [AceptaElReto107LaFiestaAburrida.java](https://github.com/JCFA-REL/Acepta_El_Reto/blob/main/src/main/java/aceptaElReto/AceptaElReto107LaFiestaAburrida.java "AceptaElReto107LaFiestaAburrida.java")| | |
+| 116 | [¡Hola mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | [AceptaElReto101HolaMundo.java](https://github.com/JCFA-REL/Acepta_El_Reto/blob/main/src/main/java/aceptaElReto/AceptaElReto116HolaMundo.java "AceptaElReto116HolaMundo.java")| | |
